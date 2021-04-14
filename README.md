@@ -5,3 +5,6 @@ Basic ERC-20 contract for GODL
 - transfer
 - get balance
 - burn
+
+by oliver lienhard 2021
+
