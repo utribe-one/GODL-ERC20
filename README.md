@@ -1,7 +1,7 @@
 # GODL-ERC20
 GODL base ERC-20 contract
 Basic ERC-20 contract for GODL
-- issue
+- issue tokens
 - transfer
 - get balance
 - burn
