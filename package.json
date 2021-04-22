@@ -1,0 +1,26 @@
+{
+  "name": "GODL-ERC20",
+  "version": "1.0.0",
+  "description": "GODL base ERC-20 contract Basic ERC-20 contract for GODL - issue - transfer - get balance - burn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utribe-one/GODL-ERC20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utribe-one/GODL-ERC20/issues"
+  },
+  "homepage": "https://github.com/utribe-one/GODL-ERC20#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@openzeppelin/contracts": "^4.0.0",
+    "ethers": "^5.1.3",
+    "hardhat": "^2.2.0"
+  }
+}
