@@ -5,6 +5,9 @@ Basic ERC-20 contract for GODL
 - transfer
 - get balance
 - burn
-
-by oliver lienhard 2021
+- pause
+- custom trasaction for for GODL transfers 1.618%
+- 
+2021 by Ubuntu Tribe utribe.one
+developer oliver lienhard 
 
