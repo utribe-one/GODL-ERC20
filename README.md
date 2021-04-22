@@ -1,6 +1,7 @@
 # GODL-ERC20
+
 GODL base ERC-20 contract
-Basic ERC-20 contract for GODL
+Basic ERC-20 contract for GODL based on openzeppelin standards
 - issue tokens
 - transfer
 - get balance
